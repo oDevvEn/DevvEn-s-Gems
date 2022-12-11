@@ -1,3 +1,5 @@
+NOTICE! This is to help me compile the project (into a jar)
+
 PUT IN CONSOLE
 ./gradlew build
 

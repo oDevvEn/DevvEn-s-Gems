@@ -1,0 +1,16 @@
+NOTICE! This is to help me (DevvEn) with various tasks whilst coding
+
+
+
+==COMPILING==
+PUT IN CONSOLE
+./gradlew.bat build
+
+FIND JAR AT
+build/libs (INSIDE YOU SHALL SEE THE MOD (jar))
+
+
+
+==CHANGING VERSION==
+src/main/resosurces/assets/META-INF/mods.toml
+build.gradle

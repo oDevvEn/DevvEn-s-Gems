@@ -2,5 +2,9 @@
   "item.tutorialmod.gem": "Gem",
   "item.tutorialmod.raw_gem": "Raw Gem",
 
+  "block.tutorialmod.gem_block": "Block of Gem",
+  "block.tutorialmod.gem_ore": "Gem Ore",
+  "block.tutorialmod.deepslate_gem_ore": "Deepslate Gem Ore",
+
   "itemGroup.tutorialtab": "DevvEn's Tutorial Tab"
 }

@@ -1,7 +1,0 @@
-NOTICE! This is to help me compile the project (into a jar)
-
-PUT IN CONSOLE
-./gradlew.bat build
-
-FIND JAR AT
-build/libs (INSIDE YOU SHALL SEE THE MOD (jar))

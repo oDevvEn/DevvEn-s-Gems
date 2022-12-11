@@ -1,7 +1,9 @@
 # CHANGELOG
 
 ### [0.0.2]
-- WIP
+- Gem added
+- Raw Gem added
+- Creative Mode Tab added for the mod
 
 
 

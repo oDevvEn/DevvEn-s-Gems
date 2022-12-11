@@ -1,0 +1,5 @@
+PUT IN CONSOLE
+./gradlew build
+
+FIND JAR AT
+build/libs (INSIDE YOU SHALL SEE THE MOD (jar))

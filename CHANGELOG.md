@@ -1,9 +1,10 @@
 # CHANGELOG
 
 ### [0.0.3]
-- Block of Gems added
-- Gem Ore (stone + deapslate variants) added
-- Added logo (i think?)
+- Block of Gems added  
+- Gem Ore (stone + deapslate variants) added  
+- Added logo (i think?)  
+<br>
 
 ### [0.0.2]
 - Gem added  

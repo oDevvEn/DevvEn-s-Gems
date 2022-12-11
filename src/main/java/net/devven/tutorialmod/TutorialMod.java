@@ -1,6 +1,7 @@
 package net.devven.tutorialmod;
 
 import com.mojang.logging.LogUtils;
+import net.devven.tutorialmod.item.ModItems;
 import net.minecraft.world.level.block.Blocks;
 import net.minecraftforge.api.distmarker.Dist;
 import net.minecraftforge.common.MinecraftForge;
@@ -20,6 +21,8 @@ public class TutorialMod {
 
     public TutorialMod() {
         IEventBus modEventBus = FMLJavaModLoadingContext.get().getModEventBus();
+
+        ModItems.register(modEventBus);
 
         modEventBus.addListener(this::commonSetup);
 

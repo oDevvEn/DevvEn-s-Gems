@@ -1,0 +1,10 @@
+{
+  "item.devvengems.gem": "Gem",
+  "item.devvengems.raw_gem": "Raw Gem",
+
+  "block.devvengems.gem_block": "Block of Gem",
+  "block.devvengems.gem_ore": "Gem Ore",
+  "block.devvengems.deepslate_gem_ore": "Deepslate Gem Ore",
+
+  "itemGroup.devvengemstab": "DevvEn's Tutorial Tab"
+}

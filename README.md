@@ -1,7 +1,5 @@
-# Tutorial_Mod_1-19-2
+# DevvEn's Gems
 
 
-**BEAWARE: THIS IS A TEST MOD**  
-This contains nothing useful, it was made whilst I was (or am depending on time) learning to make an MC mod.
-
-**TIP: DON'T USE THIS MOD lol**
+**TIP: DON'T USE THIS MOD AS IT DOESN'T CONTAIN ANYTHING USEFUL**
+This is my first mod ever created for MC and it doesn't add any useful content to be used in survival worlds. It contains random things and it is a mess. Just don't use it.

@@ -1,6 +1,6 @@
 {
   "parent": "block/cube_all",
   "textures": {
-    "all": "tutorialmod:block/gem_ore"
+    "all": "devvengems:block/deepslate_gem_ore"
   }
 }

@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "devvengems:gem_block"
+    }
+  ],
+  "result": {
+    "item": "devvengems:gem",
+    "count": 9
+  }
+}

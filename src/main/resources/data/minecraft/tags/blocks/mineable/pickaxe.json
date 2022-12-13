@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    "devvengems:gem_ore",
+    "devvengems:deepslate_gem_ore",
+    "devvengems:gem_block"
+  ]
+}

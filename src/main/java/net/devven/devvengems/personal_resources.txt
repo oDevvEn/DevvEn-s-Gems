@@ -14,3 +14,8 @@ build/libs (INSIDE YOU SHALL SEE THE MOD (jar))
 ==CHANGING VERSION==
 src/main/resosurces/assets/META-INF/mods.toml
 build.gradle
+
+
+
+==LOOT TABLE GENERATOR==
+https://misode.github.io/loot-table/

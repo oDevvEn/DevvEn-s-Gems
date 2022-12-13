@@ -24,7 +24,7 @@ public class ModBlocks {
     //Add blocks here
     public static final RegistryObject<Block> GEM_BLOCK = registerBlock("gem_block",
             () -> new Block(BlockBehaviour.Properties.of(Material.AMETHYST)
-                    .strength(8f)
+                    .strength(6f)
                     .requiresCorrectToolForDrops())
             , ModCreativeModeTab.DEVVENSGEM_TAB);
     public static final RegistryObject<Block> GEM_ORE = registerBlock("gem_ore",
@@ -35,7 +35,7 @@ public class ModBlocks {
             , ModCreativeModeTab.DEVVENSGEM_TAB);
     public static final RegistryObject<Block> DEEPSLATE_GEM_ORE = registerBlock("deepslate_gem_ore",
             () -> new DropExperienceBlock(BlockBehaviour.Properties.of(Material.AMETHYST)
-                    .strength(6f)
+                    .strength(5f)
                     .requiresCorrectToolForDrops()
                     , UniformInt.of(6, 16))
             , ModCreativeModeTab.DEVVENSGEM_TAB);
